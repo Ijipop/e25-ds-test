@@ -1,4 +1,3 @@
 # Mon Projet
 
-Ce projet est un générateur de blagues.
-
+Ce projet est une claculatrice.
